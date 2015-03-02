@@ -1,0 +1,24 @@
+{
+  "name": "cp-uploader",
+  "version": "1.0.0",
+  "description": "A simple Calls Processed uploader.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/identor/cp-uploader"
+  },
+  "keywords": [
+    "lscp-processor",
+    "uploader",
+    "files"
+  ],
+  "author": "Irvin Denzel Torcuato <irvin@wiwi.ninja>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/identor/cp-uploader/issues"
+  },
+  "homepage": "https://github.com/identor/cp-uploader"
+}
