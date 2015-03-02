@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/identor/cp-uploader/issues"
   },
-  "homepage": "https://github.com/identor/cp-uploader"
+  "homepage": "https://github.com/identor/cp-uploader",
+  "devDependencies": {
+    "mocha": "^2.1.0"
+  },
+  "dependencies": {
+    "lscp-processor": "^2.0.0",
+    "mongodb": "^1.4.32"
+  }
 }
